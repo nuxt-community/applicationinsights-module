@@ -14,13 +14,13 @@
 The module enables event logging through [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview).
 
 ## Setup
-- Add `@nuxtjs/sentry` dependency using yarn or npm to your project
-- Add `@nuxtjs/sentry` to `modules` section of `nuxt.config.js`
+- Add `@nuxtjs/ApplicationInsights` dependency using yarn or npm to your project
+- Add `@nuxtjs/ApplicationInsights` to `modules` section of `nuxt.config.js`
 
 ```js
 {
   modules: [
-    '@nuxtjs/applicationinsights',
+    '@nuxtjs/ApplicationInsights',
   ],
 
   appInsights: {
@@ -59,7 +59,7 @@ Normally setting required Instrumentation Key information would be enough.
 ### disabled
 - Type: `Boolean`
   - Default: `process.env.APPINSIGHTS_DISABLED || false`
-  - Sentry will not be initialised if set to `true`.
+  - ApplicationInsights will not be initialised if set to `true`.
 
 ### disableClientSide
 - Type: `Boolean`
