@@ -96,15 +96,15 @@ Normally setting required Instrumentation Key information would be enough.
 Copyright (c) Dmitry Molotkov <aldarund@gmail.com>
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/dt/@nuxtjs/ApplicationInsights.svg?style=flat-square
-[npm-version-href]: https://npmjs.com/package/@nuxtjs/ApplicationInsights
-[npm-downloads-src]: https://img.shields.io/npm/v/@nuxtjs/ApplicationInsights/latest.svg?style=flat-square
-[npm-downloads-href]: https://npmjs.com/package/@nuxtjs/ApplicationInsights
-[circle-ci-src]: https://img.shields.io/circleci/project/github/nuxt-community/ApplicationInsights.svg?style=flat-square
-[circle-ci-href]: https://circleci.com/gh/nuxt-community/ApplicationInsights
-[codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/ApplicationInsights.svg?style=flat-square
-[codecov-href]: https://codecov.io/gh/nuxt-community/ApplicationInsights
-[david-dm-src]: https://david-dm.org/nuxt-community/ApplicationInsights/status.svg?style=flat-square
-[david-dm-href]: https://david-dm.org/nuxt-community/ApplicationInsights
+[npm-version-src]: https://img.shields.io/npm/dt/@nuxtjs/applicationinsights.svg?style=flat-square
+[npm-version-href]: https://npmjs.com/package/@nuxtjs/applicationinsights
+[npm-downloads-src]: https://img.shields.io/npm/v/@nuxtjs/applicationinsights/latest.svg?style=flat-square
+[npm-downloads-href]: https://npmjs.com/package/@nuxtjs/applicationinsights
+[circle-ci-src]: https://img.shields.io/circleci/project/github/nuxt-community/applicationinsights-module.svg?style=flat-square
+[circle-ci-href]: https://circleci.com/gh/nuxt-community/applicationinsights-module
+[codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/applicationinsights-module.svg?style=flat-square
+[codecov-href]: https://codecov.io/gh/nuxt-community/applicationinsights-module
+[david-dm-src]: https://david-dm.org/nuxt-community/applicationinsights-module/status.svg?style=flat-square
+[david-dm-href]: https://david-dm.org/nuxt-community/applicationinsights-module
 [standard-js-src]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square
 [standard-js-href]: https://standardjs.com
