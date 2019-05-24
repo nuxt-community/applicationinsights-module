@@ -1,4 +1,4 @@
-# @nuxtjs/ApplicationInsights
+# @nuxtjs/applicationinsights
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -14,13 +14,13 @@
 The module enables event logging through [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview).
 
 ## Setup
-- Add `@nuxtjs/ApplicationInsights` dependency using yarn or npm to your project
-- Add `@nuxtjs/ApplicationInsights` to `modules` section of `nuxt.config.js`
+- Add `@nuxtjs/applicationinsights` dependency using yarn or npm to your project
+- Add `@nuxtjs/applicationinsights` to `modules` section of `nuxt.config.js`
 
 ```js
 {
   modules: [
-    '@nuxtjs/ApplicationInsights',
+    '@nuxtjs/applicationinsights',
   ],
 
   appInsights: {
