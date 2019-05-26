@@ -10,7 +10,8 @@
     }
   ],
   "files": [
-    "lib"
+    "lib",
+    "types/*.d.ts"
   ],
   "main": "lib/module.js",
   "scripts": {
@@ -40,6 +41,7 @@
     "nuxt-edge": "^2.8.0-25980493.d7910e92",
     "standard-version": "^6.0.1"
   },
+  "types": "types/index.d.ts",
   "publishConfig": {
     "access": "public"
   }
