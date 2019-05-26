@@ -10,7 +10,8 @@
     }
   ],
   "files": [
-    "lib"
+    "lib",
+    "types/index.d.ts"
   ],
   "main": "lib/module.js",
   "scripts": {
