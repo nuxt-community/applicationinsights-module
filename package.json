@@ -11,7 +11,7 @@
   ],
   "files": [
     "lib",
-    "types"
+    "types/*.d.ts"
   ],
   "main": "lib/module.js",
   "scripts": {
