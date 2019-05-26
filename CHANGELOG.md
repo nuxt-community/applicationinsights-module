@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/nuxt-community/applicationinsights-module/compare/v1.0.3...v1.1.0) (2019-05-26)
+
+
+### Features
+
+* typescript types ([f2e46c1](https://github.com/nuxt-community/applicationinsights-module/commit/f2e46c1))
+
+
+
 ### [1.0.3](https://github.com/nuxt-community/applicationinsights-module/compare/v1.0.2...v1.0.3) (2019-05-25)
 
 
