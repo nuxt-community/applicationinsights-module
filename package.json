@@ -24,7 +24,7 @@
     "applicationinsights": "^1.4.0",
     "@microsoft/applicationinsights-web": "^2.0.1",
     "consola": "^2.9.0",
-    "deepmerge": "^3.3.0"
+    "deepmerge": "^4.2.2"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
