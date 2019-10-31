@@ -16,13 +16,13 @@
 <script>
 export default {
   methods: {
-    triggerEvent() {
+    triggerEvent () {
       this.$appInsights.trackEvent({ name: 'new module event', properties: { customProperty: 'custom property value' } })
     },
-    triggerError() {
+    triggerError () {
       this.$appInsights.trackException({ error: new Error('new module exception') })
     },
-    triggerErrorU() {
+    triggerErrorU () {
       throw new Error('UNHANDLED ERROR')
     }
   }
