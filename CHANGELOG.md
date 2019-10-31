@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/nuxt-community/applicationinsights-module/compare/v1.1.0...v1.1.1) (2019-10-31)
+
+
+### Bug Fixes
+
+* use trackException exception as arg ([1e62758](https://github.com/nuxt-community/applicationinsights-module/commit/1e62758))
+
 ## [1.1.0](https://github.com/nuxt-community/applicationinsights-module/compare/v1.0.3...v1.1.0) (2019-05-26)
 
 
