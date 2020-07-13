@@ -33,7 +33,7 @@
     "eslint": "^6.6.0",
     "jest": "^24.9.0",
     "nuxt-edge": "^2.10.3-26208009.223d3b5f",
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   },
   "types": "types/index.d.ts",
   "publishConfig": {
