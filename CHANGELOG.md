@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/nuxt-community/applicationinsights-module/compare/v1.1.1...v1.2.0) (2020-12-10)
+
+
+### Features
+
+* runtime env var support ([d2be348](https://github.com/nuxt-community/applicationinsights-module/commit/d2be348e06f6d2ae9d3a6dd2c7080161bae0dda6))
+
 ### [1.1.1](https://github.com/nuxt-community/applicationinsights-module/compare/v1.1.0...v1.1.1) (2019-10-31)
 
 
