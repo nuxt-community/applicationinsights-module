@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/nuxt-community/applicationinsights-module/compare/v1.2.0...v1.2.1) (2020-12-17)
+
+
+### Bug Fixes
+
+* revert wrong code for client appinsights with hardcoded key ([1053d0d](https://github.com/nuxt-community/applicationinsights-module/commit/1053d0da002e901358a9d75a831bcc81dc4bd1f3))
+
 ## [1.2.0](https://github.com/nuxt-community/applicationinsights-module/compare/v1.1.1...v1.2.0) (2020-12-10)
 
 
