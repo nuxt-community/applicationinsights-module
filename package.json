@@ -22,18 +22,18 @@
     "nuxt": "node --inspect=0.0.0.0 node_modules/nuxt-edge/bin/nuxt test/fixture"
   },
   "dependencies": {
-    "applicationinsights": "^1.8.8",
-    "@microsoft/applicationinsights-web": "^2.5.10",
+    "applicationinsights": "^2.1.2",
+    "@microsoft/applicationinsights-web": "^2.6.3",
     "consola": "^2.15.0",
     "deepmerge": "^4.2.2"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^5.0.0",
-    "codecov": "^3.8.1",
-    "eslint": "^7.15.0",
+    "@nuxtjs/eslint-config": "^6.0.1",
+    "codecov": "^3.8.2",
+    "eslint": "^7.28.0",
     "jest": "^26.6.3",
-    "nuxt-edge": "^2.15.0-26791235.85bb9790",
-    "standard-version": "^9.0.0"
+    "nuxt-edge": "^2.16.0-27064814.35c6ac41",
+    "standard-version": "^9.3.0"
   },
   "types": "types/index.d.ts",
   "publishConfig": {
