@@ -1,11 +1,10 @@
 const { Nuxt, Builder } = require('nuxt-edge')
-const request = require('request-promise-native')
+const axios = require('axios').default
 
 const config = require('./fixture/nuxt.config')
 
 const port = 8080
 const url = path => `http://localhost:${port}${path}`
-const get = path => request(url(path))
 
 describe('Module', () => {
   let nuxt
@@ -22,7 +21,7 @@ describe('Module', () => {
   })
 
   test('render', async () => {
-    const html = await get('/')
-    expect(html).toContain('Works!')
+    const response = await axios.get(url('/'))
+    expect(response.data).toContain('Works!')
   })
 })
