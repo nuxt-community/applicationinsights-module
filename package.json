@@ -1,6 +1,6 @@
 {
   "name": "@nuxtjs/applicationinsights",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "AppInsights module for Nuxt.js",
   "repository": "nuxt-community/applicationinsights-module",
   "license": "MIT",
@@ -22,13 +22,14 @@
     "nuxt": "node --inspect=0.0.0.0 node_modules/nuxt-edge/bin/nuxt test/fixture"
   },
   "dependencies": {
-    "applicationinsights": "^2.1.2",
-    "@microsoft/applicationinsights-web": "^2.6.3",
-    "consola": "^2.15.0",
+    "applicationinsights": "^2.2.1",
+    "@microsoft/applicationinsights-web": "^2.7.3",
+    "consola": "^2.15.3",
     "deepmerge": "^4.2.2"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^6.0.1",
+    "axios": "^0.26.0",
     "codecov": "^3.8.2",
     "eslint": "^7.28.0",
     "jest": "^26.6.3",
