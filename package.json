@@ -1,6 +1,6 @@
 {
   "name": "@nuxtjs/applicationinsights",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "AppInsights module for Nuxt.js",
   "repository": "nuxt-community/applicationinsights-module",
   "license": "MIT",
