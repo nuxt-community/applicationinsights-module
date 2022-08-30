@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/nuxt-community/applicationinsights-module/compare/v1.2.3...v2.0.0) (2022-08-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* use connection string for server connections, appinsights broke it in 2.2 release and use connection string for setup instead of apikey
+
+### Bug Fixes
+
+* use connection string for server connections, appinsights broke it in 2.2 release and use connection string for setup instead of apikey ([3174c25](https://github.com/nuxt-community/applicationinsights-module/commit/3174c2532f03486525cefb25d2e506d7f646888b))
+
 ### [1.2.3](https://github.com/nuxt-community/applicationinsights-module/compare/v1.2.2...v1.2.3) (2022-07-13)
 
 
