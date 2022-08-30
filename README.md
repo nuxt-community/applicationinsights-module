@@ -56,6 +56,11 @@ Normally setting required Instrumentation Key information would be enough.
   - Default: `process.env.APPINSIGHTS_INSTRUMENTATION_KEY || false`
   - If no `instrumentationKey` is provided module wont work
 
+### serverConnectionString
+- Type: `String`
+  - Default: `process.env.APPINSIGHTS_CONNECTION_STRING || false`
+  - If no `serverConnectionString` is provided server side wont work
+
 ### disabled
 - Type: `Boolean`
   - Default: `process.env.APPINSIGHTS_DISABLED || false`
