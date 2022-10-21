@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.4](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.3...v2.0.4) (2022-10-21)
+
+
+### Bug Fixes
+
+* ssr bridge inject ([de6fda0](https://github.com/nuxt-community/applicationinsights-module/commit/de6fda043076dfb954e557b8c71f433abac976d2))
+
 ### [2.0.3](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.2...v2.0.3) (2022-10-18)
 
 
