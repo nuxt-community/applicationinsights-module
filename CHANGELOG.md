@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.5](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.4...v2.0.5) (2022-10-26)
+
+
+### Bug Fixes
+
+* read runtime config for bridge from private section of config ([a920cae](https://github.com/nuxt-community/applicationinsights-module/commit/a920cae2fc3184474335b86de7bdd3a29f221360))
+
 ### [2.0.4](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.3...v2.0.4) (2022-10-21)
 
 
