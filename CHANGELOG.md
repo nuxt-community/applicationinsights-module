@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.7](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.6...v2.0.7) (2022-10-27)
+
+
+### Bug Fixes
+
+* properly track ssr request and errors with  nitro ([899d935](https://github.com/nuxt-community/applicationinsights-module/commit/899d9358573c37a3f711109783fd64d368271952))
+
 ### [2.0.6](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.5...v2.0.6) (2022-10-26)
 
 
