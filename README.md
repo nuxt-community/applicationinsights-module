@@ -7,7 +7,7 @@
 [![Dependencies][david-dm-src]][david-dm-href]
 [![Standard JS][standard-js-src]][standard-js-href]
 
-> ApplicationInsights module for Nuxt.js
+> ApplicationInsights module for Nuxt 2
 
 ## Features
 
