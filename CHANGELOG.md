@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.10](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.9...v2.0.10) (2024-01-15)
+
+
+### Bug Fixes
+
+* properly return error handler ([3768dee](https://github.com/nuxt-community/applicationinsights-module/commit/3768deee64db2dd5e980ab05abb5a83ba0d9867e))
+
 ### [2.0.9](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.8...v2.0.9) (2024-01-15)
 
 ### [2.0.8](https://github.com/nuxt-community/applicationinsights-module/compare/v2.0.7...v2.0.8) (2024-01-10)
