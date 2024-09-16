@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@nuxt/kit": "^3.0.0-rc.10",
-    "applicationinsights": "^2.3.5",
+    "applicationinsights": "^3.3.0",
     "@microsoft/applicationinsights-web": "^2.8.7",
     "deepmerge": "^4.2.2"
   },
