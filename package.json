@@ -22,7 +22,7 @@
     "nuxt": "node --inspect=0.0.0.0 node_modules/nuxt-edge/bin/nuxt test/fixture"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.0.0-rc.10",
+    "@nuxt/kit": "^4.5.2",
     "applicationinsights": "^2.3.5",
     "@microsoft/applicationinsights-web": "^2.8.7",
     "deepmerge": "^4.2.2"
